@@ -1,0 +1,49 @@
+.container {
+    position: relative;
+}
+
+.btn-log {
+    border-radius: 20px !important;
+    padding: 10px 30px !important;
+    font-size: 15px !important;
+}
+
+.nav-home {
+    font-family: sans-serif;
+    font-size: 25px !important;
+    color: black !important;
+    font-weight: 700;
+    font-style: bold !important;
+}
+
+.card-login{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.me-user {
+    font-size: 20px;
+    font-style: bold;
+    font-weight: 700;
+}
+
+.post-main {
+    text-align: center;
+    font-size: 20px;
+    font-weight: 500;
+    border-bottom: 2px solid aqua;
+    padding: 13px;
+    color: gray;
+}
+
+.post-sub {
+    font-size: 18px;
+    font-style: bold;
+    font-weight: 500;
+}
+
+.post-sub-title {
+    text-align: left;
+}
